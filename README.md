@@ -1,2 +1,3 @@
-# SOS
-Javascript Sos Papai Noel
+# Javascript SOS Papai Noel
+
+* Jogo feito em Javascript
